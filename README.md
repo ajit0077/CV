@@ -36,7 +36,7 @@ This is a personal portfolio website for **Ajit Nawade**, a Full Stack Web Devel
 3. Open `index.html` in a web browser.
 
 ## Contact
-For any queries, reach out via email: [ajinawade@gmail.com](mailto:ajinawade007@gmail.com)
+For any queries, reach out via email: [ajinawade007@gmail.com](mailto:ajinawade007@gmail.com)
 
 ### Social Media
 - [LinkedIn](https://www.linkedin.com/in/ajit-nawade-298ab2193/)
